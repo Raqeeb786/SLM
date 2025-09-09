@@ -1,0 +1,211 @@
+#import asyncio
+#from googletrans import Translator
+
+# # Load English/Hindi → Roman Urdu lexicon from lexicon.txt
+# def load_lexicon(lexicon_path='lexicon.txt'):
+#     lexicon = {}
+#     with open(lexicon_path, 'r', encoding='utf-8') as f:
+#         for line in f:
+#             parts = line.strip().split(':')
+#             if len(parts) == 3:
+#                 eng, urdu, roman = parts
+#                 lexicon[eng.strip().lower()] = roman.strip()
+#             elif len(parts) ==2:
+#                 eng, roman =parts
+#                 lexicon[eng.strip().lower()]= roman.strip()
+#     return lexicon
+
+# Fallback transliteration: Urdu characters to Roman Urdu (basic mapping)
+# def fallback_transliterate(word):
+#     char_map = {
+#         'ا': 'a', 'ب': 'b', 'پ': 'p', 'ت': 't', 'ٹ': 'T', 'ث': 's', 'ج': 'j',
+#         'چ': 'ch', 'ح': 'H', 'خ': 'kh', 'د': 'd', 'ڈ': 'D', 'ذ': 'z', 'ر': 'r',
+#         'ڑ': 'R', 'ز': 'z', 'ژ': 'zh', 'س': 's', 'ش': 'sh', 'ص': 's', 'ض': 'z',
+#         'ط': 't', 'ظ': 'z', 'ع': '', 'غ': 'gh', 'ف': 'f', 'ق': 'q', 'ک': 'k',
+#         'گ': 'g', 'ل': 'l', 'م': 'm', 'ن': 'n', 'ں': 'n', 'و': 'w', 'ہ': 'h',
+#         'ء': '', 'ی': 'y', 'ے': 'e', 'ۓ': 'e', 'ؤ': 'o', 'ئ': 'i', '؂': '',
+#         ' ' : ' ',
+#     }
+#     roman = ''
+#     for char in word:
+#         roman += char_map.get(char, char)
+#     return roman
+
+# Transliterate entire Urdu sentence using fallback transliteration word by word
+# def transliterate_urdu_sentence(sentence):
+#     words = sentence.strip().split()
+#     roman_words = [fallback_transliterate(word) for word in words]
+#     return ' '.join(roman_words)
+
+
+
+
+
+
+# async def translate_to_urdu(text):
+#     try:
+#         trans= Translator()
+#         translated = await trans.translate(text, dest='ur')
+#         return translated
+#     except Exception as e:
+#         print(f"Translation error: {e}")
+#         return None
+
+
+
+# import os
+# import re
+# import csv
+
+# # Load English ➝ Roman Urdu lexicon
+# def load_english_to_roman_lexicon(lexicon_path='lexicon.txt'):
+#     eng_to_roman = {}
+#     with open(lexicon_path, 'r', encoding='utf-8') as f:
+#         for line in f:
+#             parts = line.strip().split(':')
+#             if len(parts) == 3:
+#                 english, urdu, roman = parts
+#                 eng_to_roman[english.strip().lower()] = roman.strip()
+#     return eng_to_roman
+
+# # Replaces English words with Roman Urdu equivalents using the lexicon
+# def convert_to_roman_urdu(sentence, lexicon):
+#     words = re.findall(r'\b\w+\b', sentence)
+#     converted = []
+#     for word in words:
+#         roman = lexicon.get(word.lower(), word)  # default to original if not found
+#         converted.append(roman)
+#     return ' '.join(converted)
+
+# # Read captions from CSV and convert each sentence
+# def convert_csv_captions_to_roman_urdu(csv_path='captions.csv', output_path='romanized.txt'):
+#     lexicon = load_english_to_roman_lexicon()
+#     with open(csv_path, 'r', encoding='utf-8') as f:
+#         reader = csv.DictReader(f)
+#         with open(output_path, 'w', encoding='utf-8') as out:
+#             for row in reader:
+#                 text = row['Text'].strip()
+#                 if text:
+#                     romanized = convert_to_roman_urdu(text, lexicon)
+#                     out.write(romanized + '\n')
+
+# # Run it
+# if __name__ == "__main__":
+#     convert_csv_captions_to_roman_urdu()
+
+
+
+
+# import os
+# import re
+
+# def load_lexicon(lexicon_path='lexicon.txt'):
+#     urdu_to_roman = {}
+#     with open(lexicon_path, 'r', encoding='utf-8') as f:
+#         for line in f:
+#             parts = line.strip().split(':')
+#             if len(parts) == 3:
+#                 _, urdu, roman = parts
+#                 urdu = urdu.strip()
+#                 roman = roman.strip()
+#                 urdu_to_roman[urdu] = roman
+#     return urdu_to_roman
+
+# def fallback_transliterate(word):
+#     # Basic Urdu to Latin map (extend as needed)
+#     char_map = {
+#         'ا': 'a', 'ب': 'b', 'پ': 'p', 'ت': 't', 'ٹ': 'T', 'ث': 's', 'ج': 'j',
+#         'چ': 'ch', 'ح': 'H', 'خ': 'kh', 'د': 'd', 'ڈ': 'D', 'ذ': 'z', 'ر': 'r',
+#         'ڑ': 'R', 'ز': 'z', 'ژ': 'zh', 'س': 's', 'ش': 'sh', 'ص': 's', 'ض': 'z',
+#         'ط': 't', 'ظ': 'z', 'ع': '', 'غ': 'gh', 'ف': 'f', 'ق': 'q', 'ک': 'k',
+#         'گ': 'g', 'ل': 'l', 'م': 'm', 'ن': 'n', 'ں': 'n', 'و': 'w', 'ہ': 'h',
+#         'ء': '', 'ی': 'y', 'ے': 'e', 'ۓ': 'e', 'ؤ': 'o', 'ئ': 'i', '؂': '',
+#     }
+#     roman = ''
+#     for char in word:
+#         roman += char_map.get(char, char)
+#     return roman
+
+# def transliterate_sentence(sentence, lexicon):
+#     words = re.findall(r'\w+', sentence)
+#     romanized = []
+#     for word in words:
+#         roman_word = lexicon.get(word)
+#         if roman_word:
+#             romanized.append(roman_word)
+#         else:
+#             romanized.append(fallback_transliterate(word))
+#     return ' '.join(romanized)
+
+# def transliterate_all(raw_folder='romanized/raw_urdu', output_folder='romanized/final'):
+#     lexicon = load_lexicon()
+#     os.makedirs(output_folder, exist_ok=True)
+
+#     for filename in os.listdir(raw_folder):
+#         if filename=='raw_urdu.txt':
+#             input_file = os.path.join(raw_folder, filename)
+#             output_file = os.path.join(output_folder, filename)
+
+#             with open(input_file, 'r', encoding='utf-8') as f:
+#                 lines = f.readlines()
+
+#             with open(output_file, 'w', encoding='utf-8') as out:
+#                 for line in lines:
+#                     rom_line = transliterate_sentence(line.strip(), lexicon)
+#                     out.write(rom_line + '\n')
+
+
+# if __name__ == "__main__":
+#     extract_sentences_from_csv(csv_path='captions.csv', output_file='raw_urdu.txt')
+#     transliterate_all(raw_folder='.', output_folder='romanized/final')
+
+
+
+
+
+
+
+
+
+
+
+# from googletrans import Translator
+# import re
+# import asyncio
+
+# # Your fallback character map (shortened here)
+# char_map = {
+#     'ا': 'a', 'ب': 'b', 'پ': 'p', 'ت': 't', 'ٹ': 'T',
+#     'ث': 's', 'ج': 'j', 'چ': 'ch', 'ح': 'h', 'خ': 'kh',
+#     'د': 'd', 'ذ': 'z', 'ر': 'r', 'ز': 'z', 'س': 's',
+#     'ش': 'sh', 'ص': 's', 'ض': 'z', 'ط': 't', 'ظ': 'z',
+#     'ع': '', 'غ': 'gh', 'ف': 'f', 'ق': 'q', 'ک': 'k',
+#     'گ': 'g', 'ل': 'l', 'م': 'm', 'ن': 'n', 'و': 'w',
+#     'ہ': 'h', 'ء': '', 'ی': 'y', 'ے': 'e', 'ۓ': 'e'
+# }
+
+# def fallback_transliterate(word):
+#     return ''.join(char_map.get(c, c) for c in word)
+
+# def transliterate_sentence(sentence, lexicon={}):
+#     words = re.findall(r'\w+', sentence)
+#     romanized = []
+#     for word in words:
+#         roman = lexicon.get(word.strip(), fallback_transliterate(word))
+#         romanized.append(roman)
+#     return ' '.join(romanized)
+
+
+
+# async def english_or_hindi_to_roman_urdu(text):
+#     translator = Translator()
+#     result = await translator.translate(text, dest='ur')  # auto-detects input language
+#     urdu = result.text
+#     roman_urdu = transliterate_sentence(urdu)
+#     return urdu, roman_urdu
+
+# # Example usage
+# urdu, roman = asyncio.run(english_or_hindi_to_roman_urdu("spirituality is a part of their being"))
+# print("Original:", "spirituality is a part of their being")
+# print("Urdu:", urdu)
+# print("Roman Urdu:", roman)

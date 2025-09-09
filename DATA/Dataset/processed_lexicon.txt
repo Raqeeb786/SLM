@@ -1,0 +1,1298 @@
+i : میں : मैं : mein
+is : ہے : है : hai
+and : اور : और : aur
+of : کا : का : ka
+of (fem.) : کی : की : ki
+to : کو : को : ko
+that : کہ : कि : ke
+this : یہ : यह : yeh
+of (plural) : کے : के : ke
+by : نے : ने : ne
+from : سے : से : se
+on : پر : पर : par
+he/she/that : وہ : वह : woh
+be : ہو : हो : ho
+in : میں : में : mein
+not : نہیں : नहीं : nahi
+one/a : ایک : एक : aik
+am : ہوں : हूँ : hoon
+or : یا : या : ya
+if : اگر : अगर : agar
+so : تو : तो : to
+we : ہم : हम : hum
+also : بھی : भी : bhi
+this/his/her : اس : इस : is
+do : کر : कर : kar
+even if : چاہے : चाहे : chahe
+will be : ہوگا : होगा : hoga
+was : تھا : था : tha
+in : میں : में : mein
+you : آپ : आप : aap
+in : میں : में : mein
+what : کیا : क्या : kya
+was done : گیا : गया : gaya
+from : سے : से : se
+are : ہیں : हैं : hain
+he/she/that : وہ : वह : woh
+said : کہا : कहा : kaha
+that : کہ : कि : ke
+only : ہی : ही : hi
+but : لیکن : लेकिन : lekin
+were (fem.) : تھیں : थीं : thin
+happened : ہوا : हुआ : hua
+was that : تھاکہ : था कि : tha ke
+happened (pl.) : ہوئے : हुए : huay
+does (masc.) : کرتا : करता : karta
+here : یہاں : यहाँ : yahan
+them : ان : इन : un
+so : تو : तो : to
+they : انہوں : उन्होंने : unhon
+of : کے : के : ke
+is : ہے : है : hai
+human : انسان : इंसान : insaan
+and : اور : और : aur
+knowledge : علم : ज्ञान : ilm
+of : کا : का : ka
+is : ہے : है : hai
+life : زندگی : ज़िंदगी : zindagi
+time : وقت : वक़्त : waqt
+love : محبت : मोहब्बत : mohabbat
+friend : دوست : दोस्त : dost
+happiness : خوشی : ख़ुशी : khushi
+world : دنیا : दुनिया : duniya
+in : میں : में : mein
+not : نہیں : नहीं : nahi
+one : ایک : एक : aik
+yes : ہاں : हाँ : haan
+that : کہ : कि : ke
+does : کرتا : करता : karta
+to do : کرنا : करना : karna
+to go : جانا : जाना : jana
+to come : آنا : आना : aana
+to say : کہنا : कहना : kehna
+to see : دیکھنا : देखना : dekhna
+to take : لینا : लेना : lena
+to give : دینا : देना : dena
+to be : ہونا : होना : hona
+to want : چاہنا : चाहना : chahna
+talk : بات : बात : baat
+hand : ہاتھ : हाथ : haath
+heart : دل : दिल : dil
+eye : آنکھ : आँख : aankh
+ear : کان : कान : kaan
+journey : سفر : सफ़र : safar
+question : سوال : सवाल : sawal
+answer : جواب : जवाब : jawab
+work : کام : काम : kaam
+thing : چیز : चीज़ : cheez
+water : پانی : पानी : pani
+food : کھانا : खाना : khana
+to drink : پینا : पीना : peena
+air : ہوا : हवा : hawa
+earth : زمین : ज़मीन : zameen
+sky : آسمان : आसमान : aasman
+to live : رہنا : रहना : rehna
+place : جگہ : जगह : jagah
+home : گھر : घर : ghar
+family : خاندان : ख़ानदान : khandaan
+father : باپ : बाप : baap
+mother : ماں : माँ : maan
+brother : بھائی : भाई : bhai
+sister : بہن : बहन : behan
+son : بیٹا : बेटा : beta
+daughter : بیٹی : बेटी : beti
+friend : دوست : दोस्त : dost
+hard work : محنت : मेहनत : mehnat
+education : تعلیم : शिक्षा : taleem
+book : کتاب : किताब : kitaab
+school : سکول : स्कूल : school
+teacher : استاد : استاد : ustaad
+student : طالبعلم : छात्र : talib-e-ilm
+to reach : پہنچنا : पहुँचना : pahunchna
+rest : آرام : आराम : aaraam
+sleep : نیند : नींद : neend
+dream : خواب : ख़्वाब : khwab
+to think : سوچنا : सोचना : sochna
+to understand : سمجھنا : समझना : samajhna
+to know : جاننا : जानना : jaana
+first : پہلا : पहला : pehla
+last : آخری : आख़िरी : aakhri
+new : نیا : नया : naya
+old : پرانا : पुराना : purana
+small : چھوٹا : छोटा : chhota
+big : بڑا : बड़ा : bada
+little : تھوڑا : थोड़ा : thoda
+more : زیادہ : ज़्यादा : zyada
+hard/harsh : سخت : सख़्त : sakht
+easy : آسان : आसान : aasaan
+beautiful : خوبصورت : ख़ूबसूरत : khoobsurat
+ugly : بدصورت : बदसूरत : badsoorat
+hot : گرم : गर्म : garam
+cold : ٹھنڈا : ठंडा : thanda
+fast : تیز : तेज़ : taiz
+help : مدد : मदद : madad
+friendship : دوستی : दोस्ती : dosti
+love : محبت : मोहब्बत : mohabbat
+peace : امن : अमन : aman
+war : جنگ : जंग : jung
+happiness : خوشی : ख़ुशी : khushi
+sorrow : غم : ग़म : gham
+life : زندگی : ज़िंदगी : zindagi
+death : موت : मौत : maut
+truth : سچ : सच : sach
+lie : جھوٹ : झूठ : jhoot
+right (truth/justice) : حق : हक़ : haq
+oppression : ظلم : ज़ुल्म : zulm
+justice : عدل : अदल : adl
+law : قانون : क़ानून : qanoon
+court : عدالت : अदालत : adalat
+politics : سیاست : सियासत : siyasat
+government : حکومت : हुकूमत : hakoomat
+nation : قوم : क़ौम : qaum
+people : لوگ : लोग : log
+area : علاقہ : इलाक़ा : ilaqa
+city : شہر : शहर : shehar
+village : گاؤں : गाँव : gaon
+shop : دکان : दुकान : dukaan
+business : کاروبار : कारोबार : karobaar
+money : پیسہ : पैसा : paisa
+to buy : خریدنا : ख़रीदना : khareedna
+to sell : بیچنا : बेचना : bechna
+work/job : کام : काम : kaam
+employment : روزگار : रोज़गार : rozgaar
+unemployment : بیروزی : बेरोज़गारी : berozi
+health : صحت : सेहत : sehat
+medicine : دوائی : दवा : dawaai
+hospital : ہسپتال : अस्पताल : hospital
+doctor : ڈاکٹر : डॉक्टर : doctor
+friend : دوست : दोस्त : dost
+dear/beloved : عزیز : अज़ीज़ : azeez
+family : خاندان : ख़ानदान : khandaan
+gathering : محفل : महफ़िल : mehfil
+ceremony : تقریب : तक़रीब : taqreeb
+mawlid (prophet’s birth) : میلاد : मिलाद : milad
+eid : عید : ईद : eid
+ramadan : رمضان : रमज़ान : ramzan
+prayer : نماز : नमाज़ : namaz
+quran : قرآن : क़ुरआन : quran
+mosque : مسجد : मस्जिद : masjid
+home : گھر : घर : ghar
+room : کمرہ : कमरा : kamra
+floor : فرش : फ़र्श : farsh
+roof : چھت : छत : chhat
+wall : دیوار : दीवार : deewar
+door : دروازہ : दरवाज़ा : darwaza
+window : کھڑکی : खिड़की : khidki
+light : روشنی : रौशनी : roshni
+fire : آگ : आग : aag
+sunlight : دھوپ : धूप : dhoop
+rain : بارش : बारिश : barish
+snow : برف : बर्फ़ : baraf
+air : ہوا : हवा : hawa
+smoke : دھوئیں : धुआँ : dhuain
+earth : زمین : ज़मीन : zameen
+plant : پودا : पौधा : poda
+flower : پھول : फूल : phool
+tree : درخت : पेड़ : darakht
+leaf : پتہ : पत्ता : patta
+forest : جنگل : जंगल : jungle
+mountain : پہاڑ : पहाड़ : pahaar
+river : دریا : दरिया : darya
+sea : سمندر : समंदर : samundar
+boat : کشتی : कश्ती : kashti
+fish : ماہی : मछली : mahi
+moon : چاند : चाँद : chaand
+sun : سورج : सूरज : sooraj
+star : ستارہ : सितारा : sitara
+sky : آسمان : आसमान : aasman
+cloud : بادل : बादल : badal
+rain : بارش : बारिश : barish
+air : ہوا : हवा : hawa
+smoke : دھواں : धुआँ : dhuan
+light : روشنی : रौशनी : roshni
+darkness : اندھیرا : अँधेरा : andhera
+lamp : چراغ : चिराग : chiragh
+table : ٹیبل : टेबल : table
+chair : کرسی : कुर्सी : kursi
+book : کتاب : किताब : kitaab
+pen : قلم : क़लम : qalam
+paper : کاغذ : काग़ज़ : kaaghaz
+phone : فون : फ़ोन : phone
+computer : کمپیوٹر : कंप्यूटर : computer
+internet : انٹرنیٹ : इंटरनेट : internet
+motor : موٹر : मोटर : motor
+car : گاڑی : गाड़ी : gaari
+bus : بس : बस : bus
+railway : ریلوے : रेलवे : railway
+airplane : ہوائی جہاز : हवाई जहाज़ : hawai jahaaz
+road : سڑک : सड़क : sadak
+bridge : پل : पुल : pul
+traffic : ٹریفک : ट्रैफ़िक : traffic
+bright : روشن : रोशन : roshan
+silent : خاموش : ख़ामोश : khamosh
+fast : تیز : तेज़ : taiz
+slow : آہستہ : आहिस्ता : aahista
+to run : بھاگنا : भागना : bhaagna
+to stay/live : رہنا : रहना : rehna
+to go : جانا : जाना : jana
+to come : آنا : आना : aana
+to speak : بات کرنا : बात करना : baat karna
+to listen : سننا : सुनना : sunna
+to see : دیکھنا : देखना : dekhna
+to write : لکھنا : लिखना : likhna
+to read : پڑھنا : पढ़ना : parhna
+to learn : سیکھنا : सीखना : seekhna
+to understand : سمجھنا : समझना : samajhna
+to memorize : یاد کرنا : याद करना : yaad karna
+love : پیار : प्यार : pyar
+love (affection) : محبت : मोहब्बत : mohabbat
+friendship : دوستی : दोस्ती : dosti
+happiness : خوشی : ख़ुशी : khushi
+sorrow : غم : ग़म : gham
+fear : خوف : ख़ौफ़ : khauf
+courage : ہمت : हिम्मत : himmat
+patience : حوصلہ : हौसला : hosla
+peace : امن : अमन : aman
+war : جنگ : जंग : jung
+justice : انصاف : इंसाफ़ : insaf
+oppression : ظلم : ज़ुल्म : zulm
+strength : قوت : ताक़त : quwwat
+weak : کمزور : कमज़ोर : kamzor
+strong/powerful : طاقتور : ताक़तवर : taqtoor
+world : دنیا : दुनिया : duniya
+life : زندگی : ज़िंदगी : zindagi
+death : موت : मौत : maut
+prayer : دعا : दुआ : dua
+worship : عبادت : इबादत : ibadat
+quran : قرآن : क़ुरआन : quran
+prayer (salah) : نماز : नमाज़ : namaz
+fast (ramadan) : روزہ : रोज़ा : roza
+hajj : حج : हज : hajj
+eid : عید : ईद : eid
+celebration : جشن : जश्न : jashn
+event/ceremony : تقریب : तक़रीब : taqreeb
+friend : دوست : दोस्त : dost
+relation : رشتہ : रिश्ता : rishta
+family : خاندان : ख़ानदान : khandaan
+wife : بیوی : बीवी : biwi
+husband : شوہر : शौहर : shohar
+child : بچہ : बच्चा : bacha
+son : بیٹا : बेटा : beta
+daughter : بیٹی : बेटी : beti
+father : باپ : बाप : baap
+mother : ماں : माँ : maan
+brother : بھائی : भाई : bhai
+sister : بہن : बहन : behan
+human : انسان : इंसान : insaan
+and : اور : और : aur
+knowledge : علم : इल्म : ilm
+of : کا : का : ka
+is : ہے : है : hai
+life : زندگی : ज़िंदगी : zindagi
+time : وقت : वक़्त : waqt
+love : محبت : मोहब्बत : mohabbat
+friend : دوست : दोस्त : dost
+happiness : خوشی : ख़ुशी : khushi
+world : دنیا : दुनिया : duniya
+in : میں : में : mein
+not : نہیں : नहीं : nahi
+one : ایک : एक : aik
+yes : ہاں : हाँ : haan
+that : کہ : कि / कि : ke
+does : کرتا : करता : karta
+to do : کرنا : करना : karna
+to go : جانا : जाना : jana
+to come : آنا : आना : aana
+to say : کہنا : कहना : kehna
+to see : دیکھنا : देखना : dekhna
+to take : لینا : लेना : lena
+to give : دینا : देना : dena
+to be : ہونا : होना : hona
+to want : چاہنا : चाहना : chahna
+talk / conversation : بات : बात : baat
+hand : ہاتھ : हाथ : haath
+heart : دل : दिल : dil
+eye : آنکھ : आँख : aankh
+ear : کان : कान : kaan
+journey : سفر : सफर : safar
+question : سوال : सवाल : sawal
+answer : جواب : जवाब : jawab
+work / job : کام : काम : kaam
+thing / item : چیز : चीज़ : cheez
+water : پانی : पानी : pani
+food : کھانا : खाना : khana
+to drink : پینا : पीना : peena
+air : ہوا : हवा : hawa
+earth / land : زمین : ज़मीन : zameen
+sky : آسمان : आसमान : aasman
+to live / stay : رہنا : रहना : rehna
+place : جگہ : जगह : jagah
+home : گھر : घर : ghar
+family : خاندان : ख़ानदान : khandaan
+father : باپ : बाप : baap
+mother : ماں : माँ : maan
+brother : بھائی : भाई : bhai
+sister : بہن : बहन : behan
+son : بیٹا : बेटा : beta
+daughter : بیٹی : बेटी : beti
+hard work : محنت : मेहनत : mehnat
+education : تعلیم : तालीम : taleem
+book : کتاب : किताब : kitaab
+school : سکول : स्कूल : school
+teacher : استاد : उस्ताद : ustaad
+student : طالبعلم : छात्र : talib-e-ilm
+to reach : پہنچنا : पहुँचना : pahunchna
+rest : آرام : आराम : aaraam
+sleep : نیند : नींद : neend
+dream : خواب : ख़्वाब : khwab
+to think : سوچنا : सोचना : sochna
+to understand : سمجھنا : समझना : samajhna
+to know : جاننا : जानना : jaana
+first : پہلا : पहला : pehla
+last : آخری : आख़िरी : aakhri
+new : نیا : नया : naya
+old : پرانا : पुराना : purana
+small : چھوٹا : छोटा : chhota
+big : بڑا : बड़ा : bada
+less / little : تھوڑا : थोड़ा : thoda
+more / much : زیادہ : ज़्यादा : zyada
+hard / tough : سخت : सख़्त : sakht
+easy : آسان : आसान : aasaan
+beautiful : خوبصورت : ख़ूबसूरत : khoobsurat
+ugly : بدصورت : बदसूरत : badsoorat
+hot : گرم : गरम : garam
+cold : ٹھنڈا : ठंडा : thanda
+fast : تیز : तेज़ : taiz
+help : مدد : मदद : madad
+friendship : دوستی : दोस्ती : dosti
+peace : امن : अमन : aman
+war : جنگ : जंग : jung
+sorrow : غم : ग़म : gham
+death : موت : मौत : maut
+truth : سچ : सच : sach
+lie : جھوٹ : झूठ : jhoot
+right : حق : हक़ : haq
+oppression : ظلم : ज़ुल्म : zulm
+justice : عدل : अद्ल : adl
+law : قانون : क़ानून : qanoon
+court : عدالت : अदालत : adalat
+politics : سیاست : सियासत : siyasat
+government : حکومت : हुकूमत : hakoomat
+nation : قوم : क़ौम : qaum
+people : لوگ : लोग : log
+area / region : علاقہ : इलाक़ा : ilaqa
+city : شہر : शहर : shehar
+village : گاؤں : गाँव : gaon
+shop : دکان : दुकान : dukaan
+business : کاروبار : कारोबार : karobaar
+money : پیسہ : पैसा : paisa
+to buy : خریدنا : ख़रीदना : khareedna
+to sell : بیچنا : बेचना : bechna
+employment : روزگار : रोज़गार : rozgaar
+unemployment : بیروزی : बेरोज़गारी : berozi
+health : صحت : सेहत : sehat
+medicine : دوائی : दवाई : dawaai
+hospital : ہسپتال : अस्पताल : hospital
+doctor : ڈاکٹر : डॉक्टर : doctor
+dear / beloved : عزیز : अज़ीज़ : azeez
+gathering / party : محفل : महफ़िल : mehfil
+ceremony / event : تقریب : तक़रीब : taqreeb
+ceremony : تقریب : तक़रीब : taqreeb
+mawlid / prophet's birthday : میلاد : मिलाद : milad
+ramadan : رمضان : रमज़ान : ramzan
+prayer (islamic) : نماز : नमाज़ : namaz
+quran : قرآن : कुरआन : quran
+mosque : مسجد : मस्जिद : masjid
+room : کمرہ : कमरा : kamra
+floor : فرش : फ़र्श : farsh
+roof : چھت : छत : chhat
+wall : دیوار : दीवार : deewar
+door : دروازہ : दरवाज़ा : darwaza
+window : کھڑکی : खिड़की : khidki
+light : روشنی : रोशनी : roshni
+fire : آگ : आग : aag
+sunlight : دھوپ : धूप : dhoop
+rain : بارش : बारिश : barish
+snow : برف : बर्फ़ : baraf
+smoke (plural) : دھوئیں : धुएँ : dhuain
+plant : پودا : पौधा : poda
+flower : پھول : फूल : phool
+tree : درخت : पेड़ : darakht
+leaf : پتہ : पत्ता : patta
+forest : جنگل : जंगल : jungle
+mountain : پہاڑ : पहाड़ : pahaar
+river : دریا : दरिया : darya
+sea : سمندر : समुंदर : samundar
+boat : کشتی : नाव : kashti
+fish : ماہی : मछली : mahi
+moon : چاند : चाँद : chaand
+sun : سورج : सूरज : sooraj
+star : ستارہ : सितारा : sitara
+sky : آسمان : आसमान : aasman
+cloud : بادل : बादल : badal
+smoke : دھواں : धुआँ : dhuan
+darkness : اندھیرا : अंधेरा : andhera
+lamp : چراغ : चिराग़ : chiragh
+table : ٹیبل : मेज़ / टेबल : table
+chair : کرسی : कुर्सी : kursi
+pen : قلم : क़लम : qalam
+paper : کاغذ : कागज़ : kaaghaz
+phone : فون : फ़ोन : phone
+computer : کمپیوٹر : कंप्यूटर : computer
+internet : انٹرنیٹ : इंटरनेट : internet
+motor : موٹر : मोटर : motor
+vehicle / car : گاڑی : गाड़ी : gaari
+bus : بس : बस : bus
+railway : ریلوے : रेलवे : railway
+airplane : ہوائی جہاز : हवाई जहाज़ : hawai jahaaz
+road : سڑک : सड़क : sadak
+bridge : پل : पुल : pul
+traffic : ٹریفک : ट्रैफिक : traffic
+bright : روشن : रौशन : roshan
+silent : خاموش : ख़ामोश : khamosh
+slow : آہستہ : आहिस्ता : aahista
+to run : بھاگنا : भागना : bhaagna
+to talk : بات کرنا : बात करना : baat karna
+to listen : سننا : सुनना : sunna
+to write : لکھنا : लिखना : likhna
+to read : پڑھنا : पढ़ना : parhna
+to learn : سیکھنا : सीखना : seekhna
+to remember : یاد کرنا : याद करना : yaad karna
+love / affection : پیار : प्यार : pyar
+fear : خوف : डर / ख़ौफ़ : khauf
+courage : ہمت : हिम्मत : himmat
+willpower : حوصلہ : हौसला : hosla
+justice : انصاف : इंसाफ़ : insaf
+strength / power : قوت : क़ुव्वत : quwwat
+weak : کمزور : कमज़ोर : kamzor
+strong / powerful : طاقتور : ताक़तवर : taqtoor
+prayer (dua) : دعا : दुआ : dua
+worship : عبادت : इबादत : ibadat
+celebration : جشن : जश्न : jashn
+relationship : رشتہ : रिश्ता : rishta
+wife : بیوی : बीवी : biwi
+husband : شوہر : शौहर : shohar
+child / kid : بچہ : बच्चा : bacha
+how much : کتنا : कितना : kitna
+how / what kind : کیسا : कैसा : kaisa
+when : کب : कब : kab
+where : کہاں : कहाँ : kahan
+why : کیوں : क्यों : kyon
+who / whom : کس : किस : kis
+who : کون : कौन : kaun
+which : کونسا : कौन सा : kaunsa
+now : اب : अब : ab
+right now : ابھی : अभी : abhi
+yesterday / tomorrow : کل : कल : kal
+again / then : پھر : फिर : phir
+will be (he/she/it) : ہوگا : होगा : hoga
+will be (you/they) : ہوگے : होगे : hoge
+do (you/they) : کرتے : करते : karte
+do (she) : کرتی : करती : karti
+do (he) : کرتا : करता : karta
+what / did : کیا : क्या : kya
+is : ہے : है : hai
+was (he) : تھا : था : tha
+was (she) : تھی : थी : thi
+were (they) : تھے : थे : thay
+am : ہوں : हूँ : hoon
+be : ہو : हो : ho
+to go : جانا : जाना : jana
+to come : آنا : आना : aana
+take : لینا : लेना : lena
+give : دینا : देना : dena
+speak : بولنا : बोलना : bolna
+understand : سمجھنا : समझना : samajhna
+read : پڑھنا : पढ़ना : parhna
+write : لکھنا : लिखना : likhna
+see/watch : دیکھنا : देखना : dekhna
+sleep : سونا : सोना : sona
+wake up : جاگنا : जागना : jagna
+play : کھیلنا : खेलना : khelna
+stay/live : رہنا : रहना : rehna
+think : سوچنا : सोचना : sochna
+talks/conversations : باتیں : बातें : batein
+dream : خواب : ख़्वाब : khwab
+love : محبت : मोहब्बत : mohabbat
+friendship : دوستی : दोस्ती : dosti
+happiness : خوشی : ख़ुशी : khushi
+sadness : غم : ग़म : gham
+fear : خوف : ख़ौफ़ : khauf
+courage : ہمت : हिम्मत : himmat
+encouragement : حوصلہ : हौसला : hosla
+peace : امن : अमन : aman
+war : جنگ : जंग : jung
+justice : انصاف : इंसाफ़ : insaf
+oppression : ظلم : ज़ुल्म : zulm
+nation : قوم : क़ौम : qaum
+people : لوگ : लोग : log
+first : پہلا : पहला : pehla
+last : آخری : आख़िरी : aakhri
+new : نیا : नया : naya
+old : پرانا : पुराना : purana
+small : چھوٹا : छोटा : chhota
+big : بڑا : बड़ा : bada
+second : دوسرا : दूसरा : doosra
+third : تیسرا : तीसरा : teesra
+fifth : پانچواں : पाँचवां : paanchwan
+sixth : چھٹا : छठा : chhata
+seventh : ساتواں : सातवां : satwan
+eighth : آٹھواں : आठवां : athwan
+ninth : نواں : नौवां : nawan
+tenth : دسواں : दसवां : daswan
+thousand : ہزار : हज़ार : hazar
+hundred thousand (lakh) : لاکھ : लाख : lakh
+ten million (crore) : کروڑ : करोड़ : karor
+billion (arab) : ارب : अरब : arab
+black : بلیک : ब्लैक : black
+white : وائٹ : व्हाइट : white
+red : ریڈ : रेड : red
+blue : بلیو : ब्लू : blue
+green : گرین : ग्रीन : green
+yellow : پیلا : पीला : peela
+pink : گلابی : गुलाबी : gulabi
+black/dark : سیاہ : सियाह : siyah
+orange : نارنجی : नारंगी : naaranji
+brown : بھورا : भूरा : bhura
+color : رنگ : रंग : rang
+beautiful : خوبصورت : खूबसूरत : khoobsurat
+dirty : گندا : गंदा : ganda
+long : لمبا : लंबा : lamba
+small (again) : چھوٹا : छोटा : chhota
+fat : موٹا : मोटा : mota
+thin : دبلا : दुबला : dubla
+tired : تھکا ہوا : थका हुआ : thaka hua
+cheap : سستا : सस्ता : sasta
+expensive : مہنگا : महंगा : mehnga
+laughing : ہنستا : हँसता : hasta
+crying : روتا : रोता : rota
+walk : چلنا : चलना : chalna
+run : دوڑنا : दौड़ना : daurna
+sit : بیٹھنا : बैठना : baithna
+stand up : کھڑا ہونا : खड़ा होना : khara hona
+eat : کھانا : खाना : khana
+drink : پینا : पीना : peena
+work/do : کام کرنا : काम करना : kaam karna
+learn : سیکھنا : सीखना : seekhna
+remember : یاد کرنا : याद करना : yaad karna
+make friends : دوست بنانا : दोस्त बनाना : dost banana
+to love : محبت کرنا : मोहब्बत करना : mohabbat karna
+sing : گانا : गाना : gana
+dance : ناچنا : नाचना : nachna
+talk : بات کرنا : बात करना : baat karna
+think : سوچنا : सोचना : sochna
+dream (see dreams) : خواب دیکھنا : ख़्वाब देखना : khwab dekhna
+pray : دعا کرنا : दुआ करना : dua karna
+mercy : رحمت : रहमत : rehmat
+compassion : رحم : रहम : rahm
+justice/fairness : عدل : अदल : adl
+oppression : ظلم : ज़ुल्म : zulm
+government : حکومت : हुकूमत : hakoomat
+law : قانون : क़ानून : qanoon
+deputy : نیابت : नीयाबत : niyabat
+elections : انتخابات : इंक़िलाबात : intikhabat
+parliament : پارلیمنٹ : पार्लियामेंट : parliament
+president : صدر : सदर : sadar
+prime minister : وزیراعظم : प्रधानमंत्री : wazeer-e-azam
+minister : وزیر : मंत्री : wazeer
+army : فوج : फ़ौज : fauj
+police : پولیس : पुलिस : police
+prisoner : قیدی : कैदी : qaidi
+human : انسان : इंसान : insaan
+love : محبت : मोहब्बत : mohabbat
+friendship : دوستی : दोस्ती : dosti
+happiness : خوشی : ख़ुशी : khushi
+sorrow/grief : غم : ग़म : gham
+life : زندگی : ज़िंदगी : zindagi
+death : موت : मौत : maut
+book : کتاب : किताब : kitaab
+water : پانی : पानी : pani
+air/wind : ہوا : हवा : hawa
+sky : آسمان : आसमान : aasman
+earth/land : زمین : ज़मीन : zameen
+sunlight : دھوپ : धूप : dhoop
+moon : چاند : चाँद : chaand
+star : ستارہ : सितारा : sitara
+to sing : گانا : गाना : gana
+poetry/poem : شعر : शेर : sher
+story : کہانی : कहानी : kahani
+palace : محل : महल : mahal
+house/home : گھر : घर : ghar
+market : بازار : बाजार : bazaar
+shop : دوکان : दुकान : dukan
+car : گاڑی : गाड़ी : gaari
+journey : سفر : सफ़र : safar
+hospital : ہسپتال : अस्पताल : hospital
+school : اسکول : स्कूल : school
+committee : کمیٹی : कमेटी : committee
+exam paper : پرچہ : परचा : parcha
+clothes : کپڑا : कपड़ा : kapra
+work/job : کام : काम : kaam
+two : دو : दो : do
+three : تین : तीन : teen
+four : چار : चार : chaar
+five : پانچ : पाँच : paanch
+six : چھ : छः : chh
+seven : سات : सात : saat
+eight : آٹھ : आठ : aath
+nine : نو : नौ : nau
+ten : دس : दस : das
+first : پہلا : पहला : pehla
+last : آخری : आख़िरी : aakhri
+long : لمبا : लंबा : lamba
+small : چھوٹا : छोटा : chhota
+big : بڑا : बड़ा : bada
+new : نیا : नया : naya
+old : پرانا : पुराना : purana
+good : اچھا : अच्छा : acha
+bad : برا : बुरा : bura
+fast : تیز : तेज़ : tez
+slow : دھیمی : धीमी : dheemi
+hot : گرم : गर्म : garam
+cold : تھنڈا : ठंडा : thanda
+season/weather : موسم : मौसम : mausam
+rain : بارش : बारिश : barish
+snow : برف : बर्फ़ : baraf
+hatred : نفرت : नफ़रत : nafrat
+peace : امن : अमन : aman
+war : جنگ : जंग : jang
+greeting/peace : سلام : सलाम : salam
+god : خدا : खुदा : khuda
+world : دنیا : दुनिया : duniya
+man : آدمی : आदमी : aadmi
+woman : عورت : औरत : aurat
+child : بچہ : बच्चा : bacha
+father : باپ : बाप : baap
+mother : ماں : माँ : maan
+brother : بھائی : भाई : bhai
+sister : بہن : बहन : behn
+family : خاندان : परिवार : khandaan
+city/home : گھر : घर : ghar
+city : شہر : शहर : shehar
+village : گاؤں : गाँव : gaon
+country : ملک : मुल्क : mulk
+nation : قوم : क़ौम : qaum
+language : زبان : ज़बान : zabaan
+culture : ثقافت : संस्कृति : saqafat
+history : تاریخ : इतिहास : tareekh
+politics : سیاست : राजनीति : siyasat
+economy : معیشت : अर्थव्यवस्था : maeeshat
+education : تعلیم : शिक्षा : taleem
+science : سائنس : विज्ञान : science
+technology : ٹیکنالوجی : तकनीक : technology
+computer : کمپیوٹر : कंप्यूटर : computer
+internet : انٹرنیٹ : इंटरनेट : internet
+phone : فون : फ़ोन : phone
+tv : ٹی وی : टीवी : tv
+radio : ریڈیو : रेडियो : radio
+newspaper : اخبار : अख़बार : akhbar
+class/book : کتاب : किताब : kitaab
+classroom : کلاس : क्लास : class
+teachers : اساتذہ : शिक्षक : asaatza
+students : طلباء : छात्र : talbaa
+exam : امتحان : परीक्षा : imtihan
+success : کامیابی : सफलता : kamyabi
+failure : ناکامی : असफलता : nakami
+travel / journey : سفر : यात्रा : safar
+road : روڈ : सड़क : road
+car : کار : कार : car
+bus : بس : बस : bus
+rail : ریل : रेल : rail
+airplane : جہاز : जहाज़ : jahaz
+aviation : ہوا بازی : उड़ान : hawa baazi
+music : موسیقی : संगीत : moseeqi
+song : گانا : गाना : gana
+melody : نغمہ : गीत : naghma
+literature : ادب : साहित्य : adab
+poetry : شاعری : कविता : shayari
+novel : ناول : उपन्यास : novel
+story : کہانی : कहानी : kahani
+drama : ڈرامہ : नाटक : drama
+film : فلم : फिल्म : film
+actor (male) : اداکار : अभिनेता : adakar
+actress (female) : اداکارہ : अभिनेत्री : adakara
+food / to eat : کھانا : खाना : khana
+drink / to drink : پینا : पीना : peena
+vegetable : سبزی : सब्ज़ी : sabzi
+meat : گوشت : मांस : gosht
+rice : چاول : चावल : chawal
+bread / roti : روٹی : रोटी : roti
+lentils : دال : दाल : daal
+water : پانی : पानी : pani
+tea : چائے : चाय : chai
+coffee : کافی : कॉफ़ी : coffee
+shop : دوکان : दुकान : dukan
+market : بازار : बाजार : bazaar
+hotel : ہوٹل : होटल : hotel
+restaurant : ریسٹورنٹ : रेस्तरां : restaurant
+field / ground : میدان : मैदान : maidan
+park : پارک : पार्क : park
+street : سڑک : सड़क : sarak
+alley : گلی : गली : gali
+factory : کارخانہ : कारख़ाना : karkhana
+business : کاروبار : कारोबार : karobar
+office : دفتر : दफ्तर : daftar
+bank : بینک : बैंक : bank
+hospital : ہسپتال : अस्पताल : hospital
+medicine : دوائی : दवा : dawaai
+doctor : ڈاکٹر : डॉक्टर : doctor
+nurse : نرس : नर्स : nurse
+medicine (general) : دوا : दवा : dawa
+police : پولیس : पुलिस : police
+army : فوج : सेना : fauj
+court : عدالت : अदालत : adalat
+law : قانون : क़ानून : qanoon
+right / truth : حق : हक़ : haq
+justice : عدل : अदालत / न्याय : adl
+truth : سچ : सच : sach
+lie : جھوٹ : झूठ : jhoot
+question : سوال : सवाल : sawal
+answer : جواب : जवाब : jawab
+friend : دوست : दोस्त : dost
+enemy : دشمن : दुश्मन : dushman
+love : محبت : मोहब्बत : mohabbat
+hatred : نفرت : नफ़रत : nafrat
+happiness : خوشی : खुशी : khushi
+sorrow : غم : ग़म : gham
+light : روشنی : रोशनी : roshni
+darkness : اندھیرا : अंधेरा : andhera
+brightness / shine : چمک : चमक : chamak
+shadow : سایہ : साया : saya
+air / wind : ہوا : हवा : hawa
+rain : بارش : बारिश : barish
+snow : برف : बर्फ़ : baraf
+sunlight : دھوپ : धूप : dhoop
+heat : گرمی : गर्मी : garmi
+coolness : ٹھنڈک : ठंडक : thandak
+weather / season : موسم : मौसम : mausam
+spring : بہار : बहार : bahar
+summer : گرمیاں : गर्मियाँ : garmiyan
+winter : سردیاں : सर्दियाँ : sardiyan
+dream : خواب : सपना : khwab
+reality : حقیقت : हक़ीक़त : haqeeqat
+imagination : تصور : कल्पना : tasawwur
+mind : ذہن : दिमाग़ : zehn
+heart : دل : दिल : dil
+soul : روح : आत्मा : rooh
+life : زندگی : ज़िन्दगी : zindagi
+death : موت : मौत : maut
+beginning : آغاز : आरम्भ : aaghaz
+end : انجام : अंत : anjam
+past : ماضی : अतीत : maazi
+future : مستقبل : भविष्य : mustaqbil
+time : وقت : समय : waqt
+clock / watch : گھڑی : घड़ी : ghari
+day : دن : दिन : din
+night : رات : रात : raat
+week : ہفتہ : सप्ताह : hafta
+month : مہینہ : महीना : mahina
+year : سال : साल : saal
+zero : صفر : शून्य : sifar
+hard work : محنت : मेहनत : mehnat
+effort : کوشش : कोशिश : koshish
+courage : ہمت : हिम्मत : himmat
+patience / encouragement : حوصلہ : हौसला : hosla
+advice : نصیحت : सलाह : naseehat
+compassion : ہمدردی : सहानुभूति : humdardi
+mercy : رحم : रहम : reham
+justice : عدل : न्याय : adal
+fairness / justice : انصاف : इंसाफ़ : insaf
+sacrifice : قربانی : कुर्बानी : qurbani
+determination : عزم : संकल्प : azm
+hope : امید : उम्मीद : umeed
+fear : خوف : डर : khauf
+passion / zeal : جذبہ : जुनून : jazba
+victory : جیت : जीत : jeet
+defeat : ہار : हार : haar
+gratitude / thanks : شکر : शुक्र : shukar
+thankfulness : شکرگزاری : आभार व्यक्त करना : shukarguzari
+prayer (dua) : دعاء : दुआ : dua
+prayer (namaz) : نماز : नमाज़ : namaz
+fasting (roza) : روزہ : रोज़ा : roza
+pilgrimage (hajj) : حج : हज : hajj
+quran : قرآن : कुरान : quran
+hadith : حدیث : हदीस : hadees
+mosque : مسجد : मस्जिद : masjid
+eid (festival) : عید : ईद : eid
+ramadan : رمضان : रमज़ान : ramzan
+news : خبر : खबर : khabar
+lively : آباد : आबाद : aabaad
+honor : آبرو : आबरू : aabru
+you : آپ : आप : aap
+manners : آداب : आदाब : aadaab
+man : آدمی : आदमी : aadmi
+humanly : آدمیت : आदमियत : aadmiyyat
+ara : آرا : आरा : aaraa
+comfort : آرام : आराम : aaraam
+aspiration : آرزو : आरज़ू : aarzoo
+first : از : से : aaz
+this : اس : इस : aas
+easy : آسان : आसान : aasaan
+heaven : آسمان : आसमान : aasmaan
+fire : آگ : आग : aag
+tear : آنسو : आंसू : aansoo
+sound : آواز : आवाज़ : aawaaz
+genesis : ابتداءً : शुरुआत : ibtidaa'
+worse : ابتر : बेतर : abtar
+news (different) : آباد : आबाद : abad
+eyebrows : آبرو : भौंह : abroo
+coalition : اتحاد : एकता : ittihaad
+agree : اتفاق : सहमति : ittifaaq
+attock (place) : اٹک : अटोक : atak
+effect : اثر : प्रभाव : asar
+authorization : اجازت : अनुमति : ijaazat
+strangers : اجنبی : अजनबी : ajnabee
+caution : احتیاط : सतर्कता : ihtiyaat
+feeling : احساس : एहसास : ihsaas
+kindness (ehsan) : احسان : एहसान : ihsaan
+newspaper : اخبار : अख़बार : akhbaar
+option : اختیار : विकल्प : ikhtiyaar
+played (acted) : ادا : निभाया : adaa
+cognition : ادراک : ज्ञान : idraak
+literature (adab) : ادب : साहित्य : adab
+submit (arz) : عرض : प्रस्तुत करना : arz
+foundation : اساس : आधार : asaas
+reasons : اسباب : कारण : asbaab
+teacher : استاد : शिक्षक : ustaad
+advertising : اشتہار : विज्ञापन : ishtihaar
+actually : اصل : असल : asl
+real : اصلی : असली : asli
+disturbance : اضطراب : अशांति : iztiraab
+inflation : افراط : महंगाई : ifraat
+sorry : افسوس : अफ़सोस : afsos
+iqbal (name) : اقبال : इक़बाल : iqbaal
+admittedly : اقرار : स्वीकार : iqraar
+akbar (name) : اکبر : अकबर : akbar
+often : اکثر : अक्सर : aksar
+what : اگر : अगर : agar
+il (prefix) : ال : अल : al
+trustworthy : امانت : अमानत : amaanat
+discrimination : امتیاز : भेदभाव : imtiyaaz
+expected : امید : उम्मीद : ummid
+retaliation : انتقام : बदला : intiqaam
+perform : انجام : प्रदर्शन : anjaam
+association : انجمن : संघ : anjuman
+man (human) : انسان : इंसान : insaan
+denial : انکار : इंकार : inkaar
+hours : اوقات : समय : auqaat
+chapter (bob) : باب : अध्याय : baab
+thing (talk) : بات : बात : baat
+after : بعد : बाद : baad
+clouds : بادل : बादल : baadal
+rain : بارش : बारिश : baarish
+fine (thin) : باریک : बारीक : baareek
+the (baaz) : باز : बाज़ : baaz
+marketplace : بازار : बाजार : baazaar
+arm : بازو : बाजू : baazoo
+fireworks : بازی : आतिशबाज़ी : baazi
+garden : باغ : बाग़ : baagh
+remaining : باقی : बाकी : baaqee
+roof (bam) : بام : छत : baam
+ban.ka (name) : بانکا : बांका : baan.kaa
+debate : بحث : बहस : bahs
+fever : بخار : बुखार : bukhaar
+luck : بخت : किस्मत : bakht
+replace : بدل : बदलना : badal
+equivalent : برابر : बराबर : baraabar
+bear (endure) : برداشت : सहन करना : bardaasht
+rainy : برسات : बरसात : barsaat
+blessing : برکت : बरकत : barkat
+elderly : بزرگ : बूढ़ा : buzurg
+bus : بس : बस : bas
+bed : بستر : बिस्तर : bistar
+housing : بسیرا : आवास : baseraa
+man : بشر : मानव : bashar
+uprising : بغاوت : बगावत : baghaawat
+next : بغل : बगल : baghal
+base on : بنیاد : आधार : bunyaad
+after : بعد : बाद : baad
+adventurous : بہادر : बहादुर : bahaadur
+literature (rude) : بے ادب : बेअदब : be adab
+anxious : بےچین : बेचैन : be chain
+unaware : بے خبر : बेख़बर : be khabar
+without a stain : بے داغ : बेदाग़ : be daagh
+feelingless : بے درد : बेदर्द : be dard
+ruthless : بے رحم : बेरहम : be rahm
+unfeigned : بے ریا : बे रिया : be riyaa
+the (speechless) : بے زبان : बेज़ुबान : be zabaan
+shameless : بے شرم : बेहया : be sharm
+impatient : بے صبر : बेसबर : be sabr
+worry : بے فکر : बेफिक्र : be fikr
+worthless : بے کار : बेकार : be kaar
+fool : بے وقوف : बेवकूफ़ : be waqoof
+statement : بیان : बयान : bayaan
+bored : بیزار : बेज़ार : bezaar
+sick : بیمار : बीमार : bimaar
+crossing : پار : पार : paar
+to : پاس : पास : paas
+pass (guard) : پاسبان : पासबान : paas baan
+the (pure) : پاک : पाक : pak
+crazy : پاگل : पागल : paagal
+water : پانی : पानी : paani
+bringing up : پرورش : परवरिश : parwarish
+upset : پریشان : परेशान : pareshaan
+preference : پسند : पसंद : pasand
+contrite : پشیمان : पशिमान : pashemaan
+bridge : پل : पुल : pal
+pluck (eyelid) : پلک : पलकों : palak
+message : پیغام : पैग़ाम : paighaam
+agreement : پیمان : पैमाना : paimaan
+crown : تاج : ताज : taj
+history : تاریخ : तारीख़ : taarikh
+watch (observe) : تاک : ताक : taak
+change : تبدیل : तबदील : tabdeel
+throne : تخت : तख़्त : takht
+craving : ترس : तरस : tars
+synthesis : ترکیب : तरकीब : tarkeeb
+imagining : تصور : तसव्वुर : tasawwur
+decrees : تقدیر : तक़दीर : taqdeer
+trouble : تکلیف : तकलीफ़ : takleef
+all : تمام : तमाम : tamaam
+arrows : تیر : तीर : teer
+faster : تیز : तेज़ : tez
+drain (drip) : ٹپکنا : टपकना : tapaknaa
+tucker (collision) : ٹکر : टक्कर : takkar
+bust (break) : ٹوٹ : टूट : toot
+proven : ثابت : साबित : saabit
+culture : ثقافت : सुसंस्कृति : siqaafat
+magic : جادو : जादू : jaadu
+manor (estate) : جاگیر : जागीर : jaagir
+ignorant : جاہل : जालिम : jaahil
+separated : جدا : जुदा : judaa
+separation : جدائی : जुदाई : judaaee
+search : جستجو : जुत्सु : justjoo
+body : جسم : जिस्म : jism
+celebration : جشن : जश्न : jashn
+net : جال : जाल : jaal
+liver : جگر : जिगर : jigar
+heaven : جنت : जन्नत : jannat
+war : جنگ : जंग : jang
+reply : جواب : जवाब : jawaab
+josh (energy) : جوش : जोश : josh
+ships : جہاز : जहाज़ : jahaaz
+sheet : چادر : चादर : chaadar
+knife : چاقو : चाक़ू : chaaqoo
+trick : چال : चाल : chaal
+lamp : چراغ : चराग़ : charaagh
+brightness : چمک : चमक : chamak
+few : چند : चंद : chand
+what : چیز : चीज़ : cheez
+china : چین : चीन : chain
+offline (present) : حاضر : हाज़िर : haazir
+hakim (ruler) : حاکم : हाकिम : haakim
+recently : حال : हाल : haal
+condition : حالت : हालत : haalat
+forbidden : حرام : हराम : haraam
+calculation : حساب : हिसाब : hisaab
+hussain (name) : حسین : हुसैन : haseen
+the (honorable) : حضرت : हज़रत : hazrat
+safety : حفاظت : हिफाज़त : hifaazat
+reality : حقیقت : हक़ीक़त : haqeeqat
+order : حکم : हुक्म : hukm
+wisdom : حکمت : हिकमत : hikmat
+status : حیثیت : हैसियत : haiseeyat
+special : خاص : ख़ास : khaas
+dust : خاک : ख़ाक़ : khaak
+pure (net) : خالص : ख़ालिस : khaalis
+raw : خام : ख़ाम : khaam
+silent : خاموش : ख़ामोश : khaamosh
+family : خاندان : खानदान : khaandaan
+news : خبر : खबर : khabar
+god : خدا : ख़ुदा : khuda
+screwed : خراب : खराब : kharaab
+dry : خشک : सूखा : khushk
+dagger : خنجر : खंजर : khanjar
+dream : خواب : ख़्वाब : khwaab
+himself : خود : ख़ुद : khood
+to (happy) : خوش : ख़ुश : khoosh
+blood : خون : ख़ून : khoon
+the idea : خیال : ख़याल : khayaal
+resolution : داد : दाद : daad
+story : داستان : दास्तान : daastaan
+stain : داغ : दाग़ : daagh
+foothills : دامن : दामन : daaman
+drawers (long) : دراز : दुराज़ : daraaz
+pain : درد : दर्द : dard
+teaching : درس : दर्स : dars
+right (correct) : درست : दुरुस्त : durust
+visited (rough) : درشت : दरुश्त : durusht
+between : درمیان : दरमियाँ : darmiyan
+river : دریا : दरिया : darya
+constitution : دستور : दस्तूर : dastoor
+the (enemy) : دشمن : दुश्मन : dushman
+difficult : دشوار : मुश्किल : dushwaar
+heart : دل : दिल : dil
+beloved : دلبر : दिलबर : dilbar
+interesting : دلچسپ : दिलचस्प : dil chasp
+pathetic : دلسوز : दिलसोज़ : dil soz
+enticing : دلفریب : दिलफरेब : dil fareb
+heart-warming : دلکش : दिलकश : dil kash
+the brain : دماغ : दिमाग़ : dimaagh
+world : دنیا : दुनिया : dunyaa
+far off (distance) : دور : दूर : door
+far off (period) : دور : दौर : daur
+friends : دوست : दोस्त : dost
+money : دولت : दौलत : daulat
+wall : دیوار : दीवार : deewaar
+private : ذاتی : ज़ाती : zaati
+mention : ذکر : ज़िक्र : zikr
+secrets : راز : राज़ : raaz
+right (true) : سچا : सच्चा : sachaa
+mercy : رحم : रहम : rahm
+cheeks : رخسار : रुखसार : rukhsaar
+rite : رسم : रस्म : rasm
+speed : رفتار : रफ़्तार : raftaar
+companion : رفیق : रफ़ीक़ : rafeeq
+adversary : رقیب : रक़ीब : raqeeb
+the color : رنگ : रंग : rang
+silk : ریشم : रेशम : resham
+language : زبان : ज़बान : zabaan
+bother : زحمت : ज़हमत : zahmat
+wound : زخم : ज़ख़्म : zakhm
+flu : زکام : ज़ुकाम : zukaam
+earth : زمین : ज़मीन : zameen
+chain : زنجیر : ज़ंजीर : zanjeer
+life : زندگی : ज़िंदगी : zindagi
+coast : ساحل : साहिल : saahil
+maker : ساز : साज़ : saaz
+butler : ساقی : साक़ी : saaqee
+year : سال : साल : saal
+equipment : سامان : सामान : saamaan
+breath : سانس : सांस : saan.s
+dawn : سحر : सहर : sahar
+tight : سخت : सख़्त : sakht
+head : سر : सर : sar
+punished : سزا : सज़ा : sazaa
+slowed down : سست : सुस्त : sust
+recommended : سفارش : सिफ़ारिश : sifaarish
+travel : سفر : सफ़र : safar
+white : سفید : सफ़ेद : safed
+question : سوال : सवाल : sawaal
+gold : سونا : सोना : soona
+branch : شاخ : शाख़ : shaakh
+pupils : شاگرد : शाग़िर्द : shaagird
+evening : شام : शाम : shaam
+involved in : شامل : शामिल : shaamil
+shaun (name) : شان : शान : shaan
+beam : شہتیر : शहतिर : shaahtir
+dew : شبنم : शबनम : shabnam
+wines : شراب : शराब : sharaab
+nobility : شرافت : शराफ़त : sharaafat
+condition : شرط : शर्त : shart
+shy : شرم : शर्म : sharm
+start : شروع : शुरू : shuroo'
+poetry : شیر : शेर : shi'r
+hunting : شکار : शिकार : shikaar
+thanks : شکر : शुक्र : shukr
+shape : شکل : शक़्ल : shakl
+sword : شمشیر : शमशीर : shamsher
+bright : شوخ : शौख़ : shokh
+interests : شوق : शौक़ : shauq
+city : شہر : शहर : shahr
+martyr : شہید : शहीद : shaheed
+bouncing : شیخی : शेख़ी : shekhi
+lion : شیر : शेर : sher
+clear : صاف : साफ़ : saaf
+companionship : صحبت : सुख़बत : suhbat
+president : صدر : सदर : sadr
+regulation : ضابط : ज़ाबित : zaabit
+guarantor : حوالہ : ज़ामिन : zaamin
+multiply : ضرب : ज़रब : zarb
+definitely : ضرور : ज़रूर : zaroor
+required : ضرورت : ज़रूरत : zaroorat
+guaranteed : ضمانت : ज़मानत : zamaanat
+conscience : ضمیر : ज़मीर : zameer
+power : طاقت : ताक़त : taaqat
+by : طرف : तरफ़ : taraf
+ta'n (reproach) : تان : तान : ta'n
+demand : طلب : तलब : talab
+storm : طوفان : तुफ़ान : toofaan
+tyrant : ظالم : ज़ालिम : zaalim
+wrongdoing : ظلم : ज़ुल्म : zulm
+incapable : عاجز : عاجज़ : aajiz
+habit : عادت : आदत : aadaat
+just : عادل : आदिल : aadil
+consequence : عاقبت : आख़िरत : aaqibat
+scholar : عالم : आलिम : aalam
+knowledge : علم : इल्म : ilm
+Wise : عاقل : 'aaqil
+worship : عبادت : इबादत : ibaadat
+expression : عبارت : इबारत : ibaarat
+wonder : عجب : अजूबा : ajab
+strange : عجیب : अजीब : ajeeb
+justice : عدالت : अदालत : adaalat
+punishment : عذاب : अज़ाब : azaab
+submit : عرض : अरज़ : arz
+honor : عزت : इज़्ज़त : izzat
+dear : عزیز : अजीज : azeez
+great : عظیم : अज़ीम : azeem
+cause : آلت : इल्लत : illat
+knowledge : علم : इल्म : ilm
+order : امر : अमर : amar
+public : عوام : अवाम : awaam
+woman : عورت : औरत : aurat
+luxurious : عیاش : अय्याश : aiyaash
+dust : غبار : गुबार : ghubaar
+traitorous : غدّار : गद्दार : ghaddaar
+purpose : غرض : ग़रज़ : gharaz
+pride : غرور : घमंड : ghuroor
+poor : غریب : गरीब : ghareeb
+movie (poetry) : غزل : ग़ज़ल : ghazal
+negligence : غفلت : ग़फ़लत : ghaflat
+mistake : غلط : गलत : ghalat
+filthy : غلیظ : ग़लिज़ : ghaleez
+non-muslim : غیر : गैर : ghair
+excellent : فاضل : फ़ाज़िल : faazil
+duty : فرض : फ़र्ज़ : farz
+difference : فرق : फ़र्क़ : farq
+order (command) : فرمان : फ़रमान : farmaan
+cry for help : فریاد : फ़रियाद : faryaad
+deception : فریب : फ़रेब : fareb
+space : فضا : फ़ज़ा : faza
+nature : فطرت : फ़ितरत : fitrat
+worry : فکر : फ़िक्र : fikr
+army : فوج : फ़ौज : fauj
+understanding : فہم : फ़हम : fahm
+worthy : قابل : क़ाबिल : qaabil
+killer : قاتل : क़ातिल : qaatil
+law : قانون : क़ानून : qaanoon
+grave : قبر : क़ब्र : qabr
+accepting : قبول : क़ुबूल : qubool
+murder : قتل : क़त्ल : qatl
+step : قدم : क़दम : qadam
+sacrifice : قربان : कुर्बान : qurbaan
+near : قریب : क़रीब : qareeb
+category (type) : قسم : किस्म : qism
+destiny : قسمت : किस्मत : qismat
+nation : قوم : क़ौम : qaum
+imprisonment : قید : क़ैद : qaid
+price : قیمت : क़ीमत : qeemat
+car : کار : कार : kaar
+caravan : کارواں : कारवां : kaarwaan
+paper : کاغذ : काग़ज़ : kaaghaz
+unbeliever : کافر : काफ़िर : kaafir
+coffee : کافی : कॉफ़ी : kaafi
+work : کام : काम : kaam
+successful : کامران : कामरान : kaamraan
+pigeon : کبوتر : कबूतर : kabootar
+book : کتاب : किताब : kitaab
+frequency : کثرت : क़िसरत : kasrat
+kindness : کرم : करम : karam
+wrestling : کشتی : कुश्ती : kashti
+attraction : کشش : कशिश : kashish
+disbelief : کفر : क़फ़्र : kufr
+total : کل : कुल : kul
+weak : کمزور : कमज़ोर : kamzor
+perfection : کمال : कमाल : kamaal
+command : کمان : कमान : kamaan
+waist : کمر : कमर : kamar
+lack : کمی : कमी : kamee
+effort : کوشش : कोशिश : koshish
+total (different spelling) : کل : क़ौल : kaul
+kiev (city) : کیف : कीव : kaif
+quality : کیفیت : क्वालिटी : kaifiyyat
+grand : گراں : ग़रां : giraan
+rotation : گردش : गर्दिश : gardish
+arrested : گرفتار : गिरफ़्तार : giriftaar
+hot : گرم : गरम : garm
+view (conversation) : گفتگو : गुफ़्तगू : guftgoo
+flower : گل : गुल : gul
+absent (gum) : غائب : ग़ाइब : ghaib (gum was a typo for غائب)
+anonymous : گمنام : गुमनाम : gumnaam
+thought : گمان : गुमान : gumaan
+acceptable : گوارا : ग़वारा : gawaaraa
+they (singers) : گانے والی : गाने वाली : gaane wali
+dictionary : لغت : लुग़त : lughat
+word : لفظ : लफ़्ज़ : lafz
+merit : لیاقت : लियाक़त : liyaaqat
+environment : ماحول : माहौल : mahaul
+mourning : ماتم : मातम : maatam
+wealth : مال : माल : maal
+owner : مالک : मालिक : maalik
+disappointed : مایوس : मायूस : maayoos
+guilty : مجرم : मुजरिम : mujrim
+wounded : مجروح : मज़रूह : majrooh
+protector : محافظ : मुहाफ़िज़ : muhaafiz
+love : محبت : मोहब्बत : muhabbat
+needy : محتاج : मुहताज : muhtaj
+veiled : محجوب : महजूब : mahjoob
+limited : محدود : महदूद : mahdood
+gathering : محفل : महफ़िल : mehfil
+safe : محفوظ : महफ़ूज़ : mehfooz
+brief : مختصر : मुख़्तसर : mukhtasar
+velvet : مخمل : मख़मल : makhmal
+help : مدد : मदद : madad
+men : مرد : मर्द : mard
+patient (ill) : مریض : मरीज़ : mareez
+temperament : مزاج : मिज़ाज : mizaaj
+passenger : مسافر : मुसाफ़िर : musaafir
+difficult : مشکل : मुशक़िल : mushkil
+famous : مشہور : मशहूर : mashhoor
+trouble : مصیبت : मुसीबत : museebat
+strong : مضبوط : मज़बूत : mazboot
+meaning : مطلب : मटलब : matlab
+proud : مغرور : मग़रूर : maghroor
+free : مفت : मुफ़्त : muft
+poor : مفلس : मुफ़लिस : muflis
+useful : مفید : मुफ़ीद : mufeed
+competitors : مقابل : मुक़ाबिल : muqaabil
+place : مقام : मक़ाम : maqaam
+foremost : مقدّم : मुक़द्दम : muqaddam
+appointed : مقرر : मुक़र्रर : muqarrar
+purpose : مقصد : मक़सद : maqsad
+cunning : مکار : मक़ार : makkaar
+house : مکان : मकान : makaan
+country : ملک : मुल्क़ : mulk
+excellent : ممتاز : मुफ़्ताज़ : mumtaaz
+possible : ممکن : मुमकिन : mumkin
+suitable : مناسب : मुनासिब : munaasib
+floor (story) : منزل : मंज़िल : manzil
+view (scene) : منظر : मंज़र : manzar
+accepted : منظور : मंज़ूर : manzoor
+death : موت : मौत : maut
+present (existing) : موجود : मौजूद : maujood
+weather : موسم : मौसम : mausam
+opportunity : موقع : मौक़ा : mauqa
+wax : موم : मोम : mom
+refugees : مہاجر : मुहाज़िर : muhaajir
+guest : مہمان : मेहमान : mehmaan
+playground : میدان : मैदाँ : maidaan
+incomplete : ناتمام : ना तमाम : naa tamaam
+disobedient : نافرمان : ना फ़रमान : naa farmaan
+failure : ناکام : नाकाम : naa kaam
+impossible : نا ممکن : ना मुमकिन : naa mumkin
+dance : ناچ : नाच : naach
+nails : ناخن : नाख़ून : naakhun
+delicate : نازک : नाज़ुक : naazuk
+nose : ناک : नाक : naak
+complaint : نالش : नालिश : naalish
+name : نام : नाम : naam
+soft : نرم : नरम : narm
+delicacy : نزاکت : नज़ाक़त : nazaakat
+near : نزدیک : नज़दीक : nazdeek
+than : نسبت : निस्बत : nisbat
+sign : نشان : निशान : nishaan
+advice : نصیحت : नसीहत : naseehat
+systems : نظام : नज़ाम : nizaam
+image : نقش : नक़्श : naqsh
+loss : نقصان : नुक़सान : nuqsaan
+quotation/transfer : نقل : नक़ल : naql
+name (repeated) : نام : नाम : naam
+prayer : نماز : नमाज़ : namaaz
+nine : نو : नौ : nau
+moist : نم : नमी : nam
+single : واحد : वाहिद : waahid
+incident : واردات : वारिदात : waaridaat
+existence : وجود : वुजूद : wujood
+weight : وزن : वज़न : wazn
+explanation : وضاحت : वज़ाहत : wazaahat
+country/home : ملک : मुल्क़ : mulk / watan
+loyalty : وفا : वफ़ा : wafaa
+time : وقت : वक़्त : waqt
+lawyer : وکیل : वकील : wakeel
+desolate : ویران : वीरान : weeraan
+ruins : ویرانی : वीरानी : weeraani
+or : یا : या : yaa
+memory : یادگار : यादगार : yaadgaar
+rubies : یاقوت : याक़ूत : yaaqoot
+orphan : یتیم : यतीम : yateem
