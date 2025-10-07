@@ -1,0 +1,38 @@
+                ┌─────────────────────────────┐
+                │  User types input in textbox │
+                └────────────┬────────────────┘
+                             │
+                  (triggered on each input)
+                             ▼
+                 ┌────────────────────────────┐
+                 │  Clean and tokenize input   │
+                 └────────────┬───────────────┘
+                              │
+                    Backoff: 4→3→2-gram
+                              │
+                              ▼
+               ┌──────────────────────────────┐
+               │ Check if prefix in 4-gram    │
+               │  If yes → get top 3          │
+               │  Else → check 3-gram         │
+               │    (repeat down to 2-gram)   │
+               └────────────┬─────────────────┘
+                            │
+           ┌────────────────┴──────────────┐
+           ▼                               ▼
+  Top 3 predictions shown           If button clicked
+  as clickable buttons             ┌────────────────────┐
+                                   │ Append word to text│
+                                   │ Refresh input box  │
+                                   └────────────────────┘
+                                            │
+                                            ▼
+                      ┌──────────────────────────────────┐
+                      │ Predict full sentence completion │
+                      │  using word-by-word top-1        │
+                      └──────────────────────────────────┘
+                                            │
+                                            ▼
+                        ┌────────────────────────────────┐
+                        │ Display sentence completion UI │
+                        └────────────────────────────────┘
