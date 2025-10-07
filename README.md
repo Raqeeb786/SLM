@@ -1,5 +1,3 @@
-
-````markdown
 # Hindi N-gram Next Word Predictor
 
 A simple next-word predictor (autocomplete) built using n-gram language models trained on a sampled Hindi corpus from the AI4Bharat IndicCorp dataset.  
@@ -125,7 +123,3 @@ print(f"Next word prediction: {next_word}")
 ---
 
 *This project is intended as a lightweight and interpretable solution for next-word prediction in Hindi without relying on deep learning models or large pretrained language models.*
-
-```
-
----
