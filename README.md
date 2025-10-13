@@ -1,125 +1,191 @@
-# Hindi N-gram Next Word Predictor
+# 🇮🇳 BharatSLM — Hindi QA with Document Retrieval + n-gram Prediction
 
-A simple next-word predictor (autocomplete) built using n-gram language models trained on a sampled Hindi corpus from the AI4Bharat IndicCorp dataset.  
-No heavy deep learning or transfer learning — lightweight and interpretable.
+### 🔍 Overview
 
----
+**BharatSLM** is a lightweight **Hindi Question-Answering (QA)** system that combines:
 
-## Table of Contents
+* **TF-IDF / semantic retrieval**, and
+* **n-gram–based Hindi language modeling**
 
-- [Project Overview](#project-overview)  
-- [Dataset](#dataset)  
-- [Setup](#setup)  
-- [Corpus Preparation](#corpus-preparation)  
-- [Training the N-gram Models](#training-the-n-gram-models)  
-- [Usage](#usage)  
-- [Future Improvements](#future-improvements)  
-- [References](#references)  
+to generate short, contextually relevant answers **without depending on large cloud-based GPT models**.
+
+It is built entirely with open-source classical NLP tools (NLTK, scikit-learn, Streamlit) and runs locally, making it ideal for **low-resource, offline, or domain-specific** Hindi applications.
 
 ---
 
-## Project Overview
+## 📁 Directory Structure
 
-This project implements a simple n-gram language model (bigram, trigram, 4-gram) for Hindi language next-word prediction using:
-
-- A cleaned and sampled Hindi text corpus (~200k sentences) from AI4Bharat IndicCorp dataset  
-- Basic text preprocessing and cleaning  
-- Python and NLTK for tokenization and n-gram extraction  
-
----
-
-## Dataset
-
-**AI4Bharat IndicCorpV2**
-
-- A large-scale multilingual Indic language corpus, publicly available on Hugging Face Datasets.  
-- Link: https://huggingface.co/datasets/ai4bharat/IndicCorpV2  
-- The full Hindi dataset is around 16 GB in size, so this project streams and samples a smaller subset (~200,000 lines) for efficient training.  
-
----
-
-## Setup
-
-### Requirements
-
-- Python 3.7 or above  
-- Install required libraries:  
-  ```bash
-  pip install datasets nltk
-
-- Download NLTK tokenizer data (run once):
-
-  ```python
-  import nltk
-  nltk.download('punkt')
-  ```
+```
+bharatslm/
+│
+├── data/
+│   └── india.txt                   # Hindi text corpus (e.g., Wikipedia or custom)
+│
+├── models/
+│   ├── 2gram.pkl                   # Saved bigram model
+│   ├── 3gram.pkl                   # Saved trigram model
+│   └── 4gram.pkl                   # Saved 4-gram model
+│
+├── slm_utils.py                    # N-gram model class & cleaning helpers
+├── retrieval.py                    # TF-IDF retriever using cosine similarity
+├── train_models.py                 # Train and pickle n-gram models
+├── predict.py                      # Text generation utilities
+├── app.py                          # Streamlit web interface
+│
+├── requirements.txt                # Dependencies
+└── README.md                       # This file
+```
 
 ---
 
-## Corpus Preparation
+## ⚙️ Architecture Diagram
 
-Run the `prepare_corpus.py` script to download, sample, clean, and save the Hindi corpus:
+```text
+               ┌──────────────────────────┐
+               │        User Input        │
+               │   (Hindi Question Text)  │
+               └────────────┬─────────────┘
+                            │
+                            ▼
+             ┌──────────────────────────┐
+             │      Document Search     │
+             │ (TF-IDF / Semantic Match)│
+             └────────────┬─────────────┘
+                            │
+                Retrieved top relevant
+                     Hindi texts
+                            │
+                            ▼
+          ┌────────────────────────────────┐
+          │       Context Preparation      │
+          │ (Combine question + snippets)  │
+          └────────────────┬───────────────┘
+                            │
+                            ▼
+             ┌──────────────────────────┐
+             │   N-gram Text Generator  │
+             │ (Predict next Hindi word │
+             │   using 2/3/4-gram freq) │
+             └────────────┬─────────────┘
+                            │
+                            ▼
+               ┌────────────────────────┐
+               │  Final Hindi Sentence  │
+               │   (Answer Generation)  │
+               └────────────────────────┘
+```
+
+🧩 **Pipeline summary:**
+
+1. User enters a Hindi question.
+2. Retriever finds top-matching sentences from your corpus.
+3. The generator expands that context word-by-word using the n-gram model.
+4. The final sentence is cleaned, punctuated, and shown as the answer.
+
+---
+
+## 🧠 Why Use BharatSLM Instead of GPT Models?
+
+| Factor                   | BharatSLM                       | GPT-based Models             |
+| :----------------------- | :------------------------------ | :--------------------------- |
+| **Deployment**           | Runs offline on CPU             | Needs internet or paid API   |
+| **Data Privacy**         | 100% local                      | Sends text to remote servers |
+| **Language Focus**       | Optimized for Hindi text        | Multilingual but general     |
+| **Customization**        | Easily trainable on your corpus | Costly fine-tuning needed    |
+| **Compute Requirements** | Lightweight                     | Heavy GPU/cloud              |
+| **Explainability**       | Transparent probabilities       | Black-box deep model         |
+
+💡 *BharatSLM is ideal for offline QA systems, schools, local government use, and research environments focused on Hindi NLP.*
+
+---
+
+## 🚀 Features
+
+✅ **Offline Hindi QA:** Works without internet or cloud access.
+✅ **Retrieval + Generation:** Combines classical IR with statistical text generation.
+✅ **Compact Models:** Lightweight `.pkl` files (few MBs).
+✅ **Custom Corpora:** Drop any `.txt` files in `/data/` to train your own assistant.
+✅ **Streamlit UI:** Clean, bilingual-ready web interface.
+
+---
+
+## 🧩 Installation
 
 ```bash
-python prepare_corpus.py
-```
-
-This script will:
-
-* Stream the Hindi split of IndicCorp dataset (no need to download the full 16GB)
-* Randomly sample 200,000 sentences (adjustable in the script)
-* Clean sentences by removing unwanted characters, normalizing whitespace
-* Remove duplicate sentences for a cleaner dataset
-* Save the cleaned corpus as `hindi_corpus_sample_cleaned.txt`
-
----
-
-## Training the N-gram Models
-
-Use your existing n-gram training script (`train_models.py`) or code to train models on the cleaned corpus:
-
-```python
-with open('hindi_corpus_sample_cleaned.txt', 'r', encoding='utf-8') as f:
-    corpus = f.read()
-
-model = NGramModel(n=3)  # Train trigram model as example
-model.train(corpus)
-
-print(model.predict_next("मैं आज"))  # Example prediction
-```
-
-You can similarly train bigram, trigram, and 4-gram models by changing the `n` parameter.
-
----
-
-## Usage
-
-Use the trained model to predict the next word for any Hindi phrase:
-
-```python
-context = "तुम कैसे"
-next_word = model.predict_next(context)
-print(f"Next word prediction: {next_word}")
+git clone https://github.com/yourusername/bharatslm.git
+cd bharatslm
+pip install -r requirements.txt
 ```
 
 ---
 
-## Future Improvements
+## 🧩 Usage
 
-* Add **smoothing techniques** (e.g., Laplace smoothing) to better handle unseen n-grams
-* Combine multiple small Hindi corpora to improve diversity and domain adaptation
-* Extend the model to predict full phrase completions instead of just the next word
-* Build a web interface (e.g., Streamlit app) for interactive autocomplete
-* Explore lightweight embedding or neural methods if you want better accuracy without heavy models
+### 1️⃣ Train the n-gram models
+
+```bash
+python train_models.py
+```
+
+### 2️⃣ Run the Streamlit app
+
+```bash
+streamlit run app.py
+```
+
+### 3️⃣ Ask a question in Hindi
+
+Type something like:
+
+> भारत के प्रमुख पर्व कौन-से हैं?
+
+BharatSLM will:
+
+* Retrieve related sentences about Indian festivals,
+* Generate a concise Hindi answer, and
+* Display confidence and top supporting documents.
 
 ---
 
-## References
+## 🧾 Example Output
 
-* [AI4Bharat IndicCorp Dataset on Hugging Face](https://huggingface.co/datasets/ai4bharat/IndicCorpV2)
-* [NLTK Documentation](https://www.nltk.org/)
-* [Hugging Face Datasets Documentation](https://huggingface.co/docs/datasets/)
+![alt text](image.png)
 
 ---
 
-*This project is intended as a lightweight and interpretable solution for next-word prediction in Hindi without relying on deep learning models or large pretrained language models.*
+## ⚖️ Advantages and Disadvantages
+
+### ✅ Advantages
+
+* Fully offline — no data privacy concerns.
+* Transparent and explainable predictions.
+* Fast and resource-efficient (CPU-friendly).
+* Works on any Hindi dataset (Wikipedia, news, books).
+* Easy to retrain and extend.
+
+### ⚠️ Disadvantages
+
+* Limited fluency and context depth compared to GPTs.
+* Cannot generalize to topics not seen in corpus.
+* Answer length and diversity are restricted by n-gram order.
+* Basic retrieval (TF-IDF) lacks deep semantic understanding.
+
+---
+
+## 🧭 Future Directions
+
+* 🔹 Integrate **Sentence Transformers** for semantic retrieval.
+* 🔹 Replace n-gram generator with **Indic-GPT** or similar transformer.
+* 🔹 Add user feedback + scoring system.
+* 🔹 Expand corpus for coverage across Hindi culture, history, science, etc.
+* 🔹 Deploy on **Streamlit Cloud / Hugging Face Spaces**.
+
+---
+
+## 👥 Credits
+
+* **Developed under the BharatSLM Project** — promoting open-source, low-resource Hindi NLP.
+* Built using: `NLTK`, `scikit-learn`, `Streamlit`, and open Hindi corpora (e.g., Hindi Wikipedia).
+
+---
+
